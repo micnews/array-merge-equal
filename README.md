@@ -2,6 +2,8 @@
 
 Merge second array into the first array and overwrite equal elements
 
+[![Build Status](https://travis-ci.org/micnews/array-merge-equal.svg)](https://travis-ci.org/micnews/array-merge-equal)
+
 ## Usage
 
 ```shell
