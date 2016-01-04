@@ -1,0 +1,25 @@
+{
+  "name": "array-merge-equal",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js && npm run lint",
+    "lint": "semistandard | snazzy"
+  },
+  "author": "mic.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnews/array-merge-equal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micnews/array-merge-equal/issues"
+  },
+  "homepage": "https://github.com/micnews/array-merge-equal#readme",
+  "description": "Merge second array into the first array and overwrite equal elements",
+  "devDependencies": {
+    "semistandard": "^7.0.4",
+    "snazzy": "^2.0.1",
+    "tape": "^4.2.2"
+  }
+}
